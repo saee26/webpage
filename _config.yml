@@ -20,7 +20,4 @@ linkedin_username:
 #   stackoverflow: true
 
 # Build settings
-markdown: kramdown
-gems:
-  - jekyll-seo-tag
-  - jekyll-redirect-from
+theme: jekyll-theme-minimal
